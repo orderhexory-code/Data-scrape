@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-09-22T05:27:36.159400+00:00",
+    "generated_at": "2026-09-22T05:29:23.316884+00:00",
     "total_sources": 1,
     "successful_sources": 1,
     "failed_sources": 0,
@@ -11,7 +11,7 @@
         "url": "https://quotes.toscrape.com/",
         "ok": true,
         "count": 10,
-        "duration_ms": 424,
+        "duration_ms": 269,
         "error": null
       }
     ]
@@ -28,7 +28,7 @@
           "world"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
@@ -38,7 +38,7 @@
           "choices"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
@@ -51,7 +51,7 @@
           "miracles"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
@@ -63,7 +63,7 @@
           "humor"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
@@ -73,7 +73,7 @@
           "inspirational"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“Try not to become a man of success. Rather become a man of value.”",
@@ -84,7 +84,7 @@
           "value"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“It is better to be hated for what you are than to be loved for what you are not.”",
@@ -94,7 +94,7 @@
           "love"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“I have not failed. I've just found 10,000 ways that won't work.”",
@@ -106,7 +106,7 @@
           "paraphrased"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
@@ -115,7 +115,7 @@
           "misattributed-eleanor-roosevelt"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       },
       {
         "text": "“A day without sunshine is like, you know, night.”",
@@ -126,7 +126,7 @@
           "simile"
         ],
         "_source": "quotes",
-        "_scraped_at": "2026-09-22T05:27:36.159310+00:00"
+        "_scraped_at": "2026-09-22T05:29:23.316761+00:00"
       }
     ]
   }
