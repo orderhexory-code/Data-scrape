@@ -1,0 +1,5 @@
+data/
+│  ├─ latest.json          # auto-generated
+│  └─ history/             # daily snapshots
+│        └─ .gitkeep
+
