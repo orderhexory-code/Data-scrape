@@ -1,3 +1,20 @@
-scraper.py
-├─ requirements.txt
-├─ config.json
+{
+  "targets": [
+    {
+      "name": "quotes",
+      "url": "https://quotes.toscrape.com/",
+      "container": ".quote",
+      "fields": {
+        "text": ".text",
+        "author": ".author"
+      },
+      "list_field": { "tags": ".tags .tag" }
+    }
+  ],
+  "request": {
+    "timeout": 60,
+    "retries": 3,
+    "delay_seconds": 1.0,
+    "user_agent": "Mozilla/5.0 (compatible; GHAScraper/1.0; +https://github.com)"
+  }
+}
